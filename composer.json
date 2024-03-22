@@ -1,0 +1,17 @@
+{
+    "name": "msous/bbs_yt",
+    "autoload": {
+        "psr-4": {
+            "Msous\\BbsYt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sousuke-code",
+            "email": "msousuke1@gmail.com"
+        }
+    ],
+    "require": {
+        "php":"^8.2.12"
+    }
+}
